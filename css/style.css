@@ -1,0 +1,17 @@
+body{margin:2px;}
+
+header{font-size:400%;}
+.a{background: blue; padding:20px 20px 20px 20px; float:left;  height:160px;  }
+.b{background: green; padding:20px 20px 20px 20px; height:160px;}
+
+nav{background:red; font-size:200%; height:50px;}
+.c{background: yellow; margin: 3px; float:left;}
+.d{background: yellow; margin: 3px; float:left;}
+.e{background: yellow; margin: 3px; float:left;}
+.f{background: yellow; margin:3px; float:left;}
+
+section{font-size: 400%;  }
+.g{background: blue; float:left; height:150px;}
+.h{background:lightgreen; float:left; height:150px;}
+
+footer{background: yellow; font-size:400%; height:150px; clear:left;}
