@@ -1,17 +1,17 @@
-body{margin:2px;}
+body{margin:0px; padding:0px;}
 
-header{font-size:400%;}
-.a{background: blue; padding:20px 20px 20px 20px; float:left;  height:160px;  }
-.b{background: green; padding:20px 20px 20px 20px; height:160px;}
+header{font-size:200%; text-align:center;}
+.a{background: blue; padding:20px; float:left;  height:160px;  }
+.b{background: green; padding:20px; height:160px;}
 
-nav{background:red; font-size:200%; height:50px;}
-.c{background: yellow; margin: 3px; float:left;}
-.d{background: yellow; margin: 3px; float:left;}
-.e{background: yellow; margin: 3px; float:left;}
-.f{background: yellow; margin:3px; float:left;}
+nav{background:red; font-size:200%; height:70px; text-align:center;}
+.c{background: yellow; margin: 3px; padding:2px; float:left;}
+.d{background: yellow; margin: 3px; padding:2px; float:left;}
+.e{background: yellow; margin: 3px; padding:2px; float:left;}
+.f{background: yellow; margin:3px; padding:2px; float:left;}
 
-section{font-size: 400%;  }
-.g{background: blue; float:left; height:150px;}
-.h{background:lightgreen; float:left; height:150px;}
+section{font-size: 200%;  }
+.g{background: blue; padding:20px; float:left; height:150px;}
+.h{background:lightgreen; padding:20px; float:left; height:150px;}
 
-footer{background: yellow; font-size:400%; height:150px; clear:left;}
+footer{background: yellow; font-size:200%; height:150px; clear:left; text-align:center;}
